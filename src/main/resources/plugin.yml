@@ -1,0 +1,7 @@
+name: DotChatBungee
+main: net.dotefekts.bungee.dotchat.DotChat
+version: 1.0
+author: DotEfekts
+website: http://www.dotefekts.net/
+depends: [DotUtilitiesBungee,protocolize-plugin]
+api-version: 1.15
